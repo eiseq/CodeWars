@@ -1,4 +1,4 @@
-package codewars.kuy7;
+package codewars.kyu7;
 
 public class SquareDigit {
     public int squareDigits(int n) {

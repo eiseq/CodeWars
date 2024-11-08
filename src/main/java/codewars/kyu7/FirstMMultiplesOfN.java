@@ -1,4 +1,4 @@
-package codewars.kuy7;
+package codewars.kyu7;
 
 public class  FirstMMultiplesOfN {
     public static int[] multiples(int m, int n) {

@@ -1,4 +1,4 @@
-package codewars.kuy7;
+package codewars.kyu7;
 
 public class DisemvowelTrolls {
     public static String disemvowel(String str) {
