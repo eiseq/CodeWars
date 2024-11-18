@@ -1,6 +1,5 @@
 package codewars.kyu7;
 
-import codewars.kuy7.FirstMMultiplesOfN;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;

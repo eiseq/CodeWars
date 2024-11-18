@@ -1,6 +1,5 @@
 package codewars.kyu7;
 
-import codewars.kuy7.SquareDigit;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
